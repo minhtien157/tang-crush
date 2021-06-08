@@ -1,19 +1,16 @@
 const CONFIG = {
     introTitle: 'Tiền à',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao Tiến cứ iu Tiền đến nhường
-    Mong mỏi hằng ngày của Tiến
-    Đằng sau chữ iu đấy là thương`,
-    btnIntro: ' HELLo',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em đến nhường này ?  <3 ',
-    btnReply: 'Gửi cho Tiền  <3',
+    introDesc: `Dành cho Tiến tí time nhé <3`,
+    btnIntro: '  Rồi zô nè ',
+    title: 'Từ lần đầu gặp cậu vào năm lóp 10 thì tớ đã say Tiền mất rồi',
+    desc: ' Tiền đồng ý cho Tiến được iu Tiền nhé <3 ',
+    btnYes: ' OK Tiền đồng ý ',
+    btnNo: ' Không, ông bị điên à ',
+    question:' Lí do nào mà lại không bấm được cái kia chớ, tức quá đi hà ? ',
+    btnReply: 'Gửi cho Tiến',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: ' Tiến  biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: ' Tiến  biết mà <3 . Yêu Tiền nhiều nhiều 😘😘',
+    messDesc: 'Click vào okiiiii lun đi nào <3 ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/minhtien.fb.157' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
